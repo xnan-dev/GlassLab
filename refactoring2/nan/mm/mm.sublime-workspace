@@ -1,0 +1,1302 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_key",
+				"array_keys"
+			],
+			[
+				"searc",
+				"searchText"
+			],
+			[
+				"order",
+				"orderPattern"
+			],
+			[
+				"third",
+				"thirdAccidentalModifier"
+			],
+			[
+				"note",
+				"note_duration"
+			],
+			[
+				"then_to",
+				"then_to_list_rec"
+			],
+			[
+				"Multip",
+				"MultiplexReducer"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"test",
+				"test_multiplexreducer_2"
+			],
+			[
+				"test_mult",
+				"test_multiplexreducer_1"
+			],
+			[
+				"orderP",
+				"orderPatternStr"
+			],
+			[
+				"toString",
+				"toStringFn1"
+			],
+			[
+				"reduce_pa",
+				"reduce_pass_unary"
+			],
+			[
+				"hasUni",
+				"hasUniqueNodeOfType"
+			],
+			[
+				"accident",
+				"accidentalModifier"
+			],
+			[
+				"reduce_t",
+				"reduce_then_measure"
+			],
+			[
+				"accide",
+				"accidentalModifier"
+			],
+			[
+				"beat",
+				"beatSeconds"
+			],
+			[
+				"transpon",
+				"transposeDistance"
+			],
+			[
+				"MusicNode",
+				"MusicNodeTag"
+			],
+			[
+				"get_cal",
+				"get_class"
+			],
+			[
+				"duratio",
+				"duration"
+			],
+			[
+				"node_reduce",
+				"node_reduce_pass"
+			],
+			[
+				"toStringNodes",
+				"toStringNodesWith"
+			],
+			[
+				"toStri",
+				"toStringNodes"
+			],
+			[
+				"toStringC",
+				"toStringComplementary"
+			],
+			[
+				"abc2",
+				"abc2midi_runner"
+			],
+			[
+				"mm_de",
+				"mm_debug_enabled"
+			],
+			[
+				"nodes",
+				"nodesStr"
+			],
+			[
+				"patia",
+				"partial_nodes"
+			],
+			[
+				"IDINS",
+				"IDINSCRIPCION"
+			],
+			[
+				"idInsp",
+				"idInscripcionFiltro"
+			],
+			[
+				"id",
+				"idinscripcion_activo"
+			],
+			[
+				"tipo",
+				"tipopersona_change"
+			],
+			[
+				"docu",
+				"documentoProveedor"
+			],
+			[
+				"docuemntoca",
+				"documentosCatalogo"
+			],
+			[
+				"idPR",
+				"idProveedor"
+			],
+			[
+				"IDDOCUMENT",
+				"IDDOCUMENTOPROVEEDORCATALOGO"
+			],
+			[
+				"idPROV",
+				"IDPROVEEDOR"
+			],
+			[
+				"IDPROV",
+				"IDPROVEEDOR"
+			],
+			[
+				"IDPRO",
+				"IDPROVEEDOR"
+			],
+			[
+				"docuemntoRE",
+				"documentoRechazado"
+			],
+			[
+				"ID",
+				"IDDOCUMENTOPROVEEDORCATALOGO"
+			],
+			[
+				"idDo",
+				"idDocumentoProveedorCatalogo"
+			],
+			[
+				"estadoRe",
+				"estadoRevision"
+			],
+			[
+				"comentario",
+				"comentarioRevisionArr"
+			],
+			[
+				"idDoc",
+				"idDocumentoProveedorCatalogoArr"
+			],
+			[
+				"idDocu",
+				"idDocumentoProveedorArr"
+			],
+			[
+				"ingresoAUtor",
+				"ingresoAutorizadoOnlineBool"
+			],
+			[
+				"indica",
+				"indicaRevisionTarea"
+			],
+			[
+				"DOCUMENTOPRO",
+				"DEDOCUMENTOPROVEEDORCATALOGO"
+			],
+			[
+				"CONE",
+				"conectorDB"
+			],
+			[
+				"fila",
+				"fila_oculta"
+			],
+			[
+				"puntaje",
+				"puntaje_check_entre"
+			],
+			[
+				"calcul",
+				"calcular_check_count"
+			],
+			[
+				"check",
+				"check_count"
+			],
+			[
+				"calcular",
+				"calcular_puntaje_checks"
+			],
+			[
+				"insert",
+				"insert_query"
+			],
+			[
+				"tabla",
+				"tabla_original"
+			],
+			[
+				"PORCE",
+				"LEGAJO_PORCENTAJEPARTICIPACION"
+			],
+			[
+				"LEGAJO",
+				"LEGAJO_MODULO4"
+			],
+			[
+				"LEGAO",
+				"LEGAJO_MODULO3"
+			],
+			[
+				"suf",
+				"sufijo"
+			],
+			[
+				"columna",
+				"columna_tamano"
+			],
+			[
+				"extra",
+				"extra_class"
+			],
+			[
+				"condi",
+				"condicional_si_change"
+			],
+			[
+				"peri",
+				"periodofin"
+			],
+			[
+				"valor_",
+				"valor_guardado"
+			],
+			[
+				"MODULO4",
+				"LEGAJO_MODULO4"
+			],
+			[
+				"LEJ",
+				"LEGAJO_MODULO4"
+			],
+			[
+				"sufijo",
+				"sufijo_input"
+			],
+			[
+				"prefijo",
+				"prefijo_input"
+			],
+			[
+				"seleccionado",
+				"seleccionado_str"
+			],
+			[
+				"existe",
+				"existe_columna"
+			],
+			[
+				"insert_",
+				"insert_keys"
+			],
+			[
+				"valor",
+				"valor_str"
+			],
+			[
+				"contro",
+				"control_tabla"
+			],
+			[
+				"CALCU",
+				"calculo_monto"
+			],
+			[
+				"generar_schema",
+				"generar_schema_control"
+			],
+			[
+				"ing",
+				"ingresoAutorizadoOnline"
+			],
+			[
+				"output",
+				"outputCsv"
+			],
+			[
+				"filtro_",
+				"filtro_altas"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"inpu",
+				"inputPasswordRepeat"
+			],
+			[
+				"out",
+				"output_files"
+			],
+			[
+				"REFR",
+				"refresh_link"
+			],
+			[
+				"refresh",
+				"refresh_link"
+			],
+			[
+				"veri",
+				"verificarSesionInicio"
+			],
+			[
+				"tiempo",
+				"tiempo_timeout"
+			],
+			[
+				"Proved",
+				"proveedor_planificacion"
+			],
+			[
+				"proo",
+				"proveedor_planificacion"
+			],
+			[
+				"blaqueo",
+				"blanqueo_nouser"
+			],
+			[
+				"blanqeuo",
+				"blanqueo_age"
+			],
+			[
+				"blanque",
+				"blanqueo_hash"
+			],
+			[
+				"destina",
+				"destinatario2"
+			],
+			[
+				"debug",
+				"debug_email"
+			],
+			[
+				"destinat",
+				"destinatario1"
+			],
+			[
+				"desti",
+				"destinatario2"
+			],
+			[
+				"consularpor",
+				"consultarListadoProveedoresRiesgoServicio"
+			],
+			[
+				"DESC",
+				"DESCRIPCION"
+			],
+			[
+				"activo",
+				"activoCols"
+			],
+			[
+				"activo3",
+				"activo3_extra"
+			],
+			[
+				"desc",
+				"DESCRIPCION"
+			],
+			[
+				"activ",
+				"activo3_vals_extra"
+			],
+			[
+				"c",
+				"cuEmpleado"
+			],
+			[
+				"idEmpleadoEsta",
+				"idEmpleadoEstadoDoc"
+			],
+			[
+				"etiqueta",
+				"etiquetaCodigo"
+			],
+			[
+				"idact",
+				"idactivotipo"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"start",
+				"start_line"
+			],
+			[
+				"tra",
+				"trace_frags"
+			],
+			[
+				"trace",
+				"trace_lines"
+			],
+			[
+				"as",
+				"asinh"
+			],
+			[
+				"autor",
+				"autorizacion_numerica"
+			],
+			[
+				"ida",
+				"idactivotipo"
+			],
+			[
+				"COI",
+				"CODIGOMAQUINARIA"
+			],
+			[
+				"CODIGO",
+				"CODIGOVEHICULO"
+			],
+			[
+				"cuit",
+				"cuitduplicado"
+			],
+			[
+				"param",
+				"param_output"
+			],
+			[
+				"IDPR",
+				"IDPROVEEDOR"
+			],
+			[
+				"accio",
+				"accion_forzar_cierre"
+			],
+			[
+				"cantidad",
+				"CANTIDADARCHIVOS"
+			],
+			[
+				"conect",
+				"conectorDB"
+			],
+			[
+				"base64",
+				"base64_encode"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"LL_CLIENT_",
+				"ll_client_active"
+			],
+			[
+				"ll_client",
+				"ll_client_id"
+			],
+			[
+				"store",
+				"store_picture_from_file"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "projects/album/album.php",
+			"settings":
+			{
+				"buffer_size": 1368,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "album/Song.php",
+			"settings":
+			{
+				"buffer_size": 530,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "album/Album.php",
+			"settings":
+			{
+				"buffer_size": 455,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "refactoring2/test_mm.php",
+			"settings":
+			{
+				"buffer_size": 952,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "refactoring2/test_node.php",
+			"settings":
+			{
+				"buffer_size": 8194,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/web-mios/mm/refactoring2/test_abc.bat",
+			"settings":
+			{
+				"buffer_size": 67,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "[0125/235156.679:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)\n[0201/140127.395:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)\n[0203/025643.536:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)\n\n\n\n\t0123 45678",
+			"file": "/C/Users/aspire/Desktop/debug.log",
+			"file_size": 375,
+			"file_write_time": 132568054035547033,
+			"settings":
+			{
+				"buffer_size": 389,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "SELECT * \nFROM CommissionSalesMemberView_MPH  co\nINNER JOIN CustTable c ON c.SalesGroup = co.GroupId\n--WHERE \n--\t co.HcmWorkerRecId = 5637150576\n\nSELECT * FROM CommissionSalesGroup WHERE GroupId='10001';\nSELECT * FROM CommissionSalesRep WHERE GroupId='10001';\n\nSELECT * FROM HcmWorker;\n\nSELECT * FROM HcmWorker WHERE PersonnelNumber='MPH-100'; -- Person: 5637166326 Alejandro Parodi\nSELECT * FROM HcmWorker WHERE PersonnelNumber='MPH-009'; -- Person: 5637165577 Gonzalo Bertolotti - RecId:5637149827\n-- UPDATE CommissionSalesRep SET Person=5637166326 WHERE GroupId='10001' AND Person=5637149076;--  para tener el cliente 10001 disponible en mobile/mis clientes para venta",
+			"file": "/C/Users/aspire/Desktop/us/us cerrados/us9572.sql",
+			"file_size": 551,
+			"file_write_time": 132597798471692569,
+			"settings":
+			{
+				"buffer_size": 671,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/aspire/Desktop/us/us9634-desbloquear-diario-para-duplicar.sql",
+			"settings":
+			{
+				"buffer_size": 151,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/aspire/Desktop/us/us9572-casogonza2.sql",
+			"settings":
+			{
+				"buffer_size": 679,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/aspire/Desktop/us/us9664.xpp",
+			"settings":
+			{
+				"buffer_size": 2024,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/web-mios/mm/nan/mm",
+		"/C/web-mios/mm/nan/mm/album",
+		"/C/web-mios/mm/nan/mm/projects",
+		"/C/web-mios/mm/nan/mm/projects/album"
+	],
+	"file_history":
+	[
+		"/C/web-mios/WIFI-ESCOBAR",
+		"/C/web-musica-discos/youtube-dl/_youtubedl.txt",
+		"/C/web-mios/mm/nan/mm/album/Song.php",
+		"/C/web-mios/mm/nan/mm/album/Arrangement.php",
+		"/C/web-mios/mm/album.bat",
+		"/C/web-mios/mm/nan/mm/refactoring2/test_abc.php",
+		"/C/web-mios/mm/autoloader.php",
+		"/C/web-mios/mm/nan/mm/album/Album.php",
+		"/C/web-mios/mm/nan_album.bat",
+		"/C/web-mios/mm/nan/mm/projects/album/album.php",
+		"/C/web-mios/mm/refactoring2/nan_album.bat",
+		"/C/web-mios/mm/nan/mm/refactoring2/node/Arp.php",
+		"/C/web/local.copiscoop.com.ar/index.php",
+		"/C/web/local.copiscoop.com.ar/application/core/core.php",
+		"/C/Users/aspire/Desktop/test.html",
+		"/C/web-mios/mm/nan/mm/docs/leeme.txt",
+		"/C/Users/aspire/Desktop/us/us9421-query-transacciones de dario.sql",
+		"/C/Users/aspire/Desktop/us-9430.sql",
+		"/C/web-mios/mm/nan/mm/refactoring2/mm.php",
+		"/C/web/local.copiscoop.com.ar/application/control/Control.php",
+		"/C/web/local.copiscoop.com.ar/application/import/import.php",
+		"/C/web/local.copiscoop.com.ar/application/database/database.php",
+		"/C/web/local.copiscoop.com.ar/application/database/model.php",
+		"/C/web/local.copiscoop.com.ar/application/control/Grid.php",
+		"/C/web-mios/piano/354-Reading-Exercises-in-C-Position-Full-Score.pdf",
+		"/C/web/local.copiscoop.com.ar/application/control/NavSearch.php",
+		"/C/web/local.copiscoop.com.ar/application/form/Form.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebNavMenu.php",
+		"/C/web-mios/mm/nan/mm/sandbox/nan_album.mm",
+		"/C/Users/aspire/Desktop/us/us8957.sql",
+		"/C/Users/aspire/Desktop/test.php",
+		"/C/web/local.copiscoop.com.ar/application/form/ComercioHomeForm.php",
+		"/C/web-mios/mm/nan_album.abc",
+		"/C/web/local.copiscoop.com.ar/application/template/WebNavSearch.php",
+		"/C/web/local.copiscoop.com.ar/application/controller/WebNavSearchController.php",
+		"/C/web/local.copiscoop.com.ar/application/control/NavBar.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebStringFIeld.php",
+		"/C/web/local.copiscoop.com.ar/application/control/StringField.php",
+		"/C/web/local.copiscoop.com.ar/application/control/ComercioNavBar.php",
+		"/C/web/local.copiscoop.com.ar/application/control/StringFieldControl.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebNavMenuItem.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebNavAction.php",
+		"/C/web/local.copiscoop.com.ar/application/control/NavMenuItem.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebNavBar.php",
+		"/C/web/local.copiscoop.com.ar/application/control/NavMenu.php",
+		"/C/web/local.copiscoop.com.ar/application/template/NavSearch.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebAlert.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebFrame.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebGrid.php",
+		"/C/web/local.copiscoop.com.ar/application/template/WebTitle.php",
+		"/C/web/local.copiscoop.com.ar/application/control/NavSearchAction.php",
+		"/C/web/local.copiscoop.com.ar/application/control/NavAction.php",
+		"/C/web/local.copiscoop.com.ar/application/form/HomeForm.php",
+		"/C/web/local.copiscoop.com.ar/application/control/Action.php",
+		"/C/web/local.copiscoop.com.ar/application/action/action.php",
+		"/C/web/local.copiscoop.com.ar/application/table/table.php",
+		"/C/web/local.copiscoop.com.ar/application/control/Alert.php",
+		"/C/web-mios/mm/nan/mm/test_abc.php",
+		"/C/web-mios/mm/nan/mm/reduce/MeasureReducer.php",
+		"/C/web-mios/mm/nan/mm/pipe/MusicPipe.php",
+		"/C/web-mios/mm/nan/mm/nan_album.php",
+		"/C/web-mios/mm/nan/mm/reduce/TransposeReducer.php",
+		"/C/devel/wamp/bin/apache/apache2.4.35/conf/httpd.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/devel/wamp/bin/apache/apache2.4.35/conf/extra/httpd-vhosts.conf",
+		"/C/web-mios/mm/nan/mm/abc/AbcPrepareReducer.php",
+		"/C/web-mios/mm/nan/mm/node/NoteSeq.php",
+		"/C/web-mios/mm/nan/mm/reduce/ArpReducer.php",
+		"/C/web-mios/mm/nan/mm/node/Chord.php",
+		"/C/web-mios/mm/nan/mm/test_node.php",
+		"/C/web-mios/mm/nan/mm/test_measure.php",
+		"/C/web-mios/mm/nan/mm/nan_album1.php",
+		"/C/web-mios/mm/nan/mm/node/node.php",
+		"/C/Users/aspire/Desktop/5603fields.txt",
+		"/C/web-mios/mm/nan/mm/abc/AbcTranslator.php",
+		"/C/web-mios/mm/nan/mm/reduce/MeasureReducerOLD.php",
+		"/C/web-mios/mm/nan/mm/test/test.php",
+		"/C/web-mios/mm/nan/mm/test_mm.php",
+		"/C/web-mios/mm/nan/mm/reduce/MeasureContext.php",
+		"/C/web-mios/mm/test_mm.bat",
+		"/C/web-mios/mm/nan/mm/mm.php",
+		"/C/web-mios/mm/nan/mm/node/Header.php",
+		"/C/web-mios/mm/nan/mm/node/Merge.php",
+		"/C/web-mios/mm/nan/mm/node/Key.php",
+		"/C/web-mios/mm/nan/mm/node/MusicNode.php",
+		"/C/web-musica-discos/youtube-dl/_youtubedl.bat",
+		"/C/web-mios/mm/nan/mm/node/Note.php",
+		"/C/web-mios/mm/nan/mm/reduce/NodeReducer.php",
+		"/C/web-mios/mm/test_abc.bat",
+		"/C/web-mios/mm/nan/mm/refactoring/reduce/TransposeContext.php",
+		"/C/web-mios/mm/nan/mm/test_midi.php",
+		"/C/web-mios/mm/nan/mm/abc/abc.php",
+		"/C/web-mios/mm/test_midi..bat",
+		"/C/web-mios/mm/nan/mm/refactoring/Up8thMul.php",
+		"/C/web-mios/mm/test_measure.bat",
+		"/C/web-mios/mm/test_abc.php",
+		"/C/web-mios/mm/nan/mm/abc/StringReducer.php",
+		"/C/web-mios/mm/nan/mm/abc/AbcReducer.php",
+		"/C/web-mios/mm/nan/mm/abc/AbcContext.php",
+		"/C/web-mios/mm/nan/mm/reduce/ChordReducer.php",
+		"/C/web-mios/mm/test_mm.php",
+		"/C/web-mios/mm/nan/mm/reduce/MultiplexReducer.php",
+		"/C/web-mios/mm/nan/mm/reduce/ChainReducer.php",
+		"/C/web-mios/mm/nan/mm/refactoring/root/nan_piano_ej1.php",
+		"/C/web-mios/mm/nan/mm/node/Up8th.php",
+		"/C/web-mios/mm/nan/mm/node/UnaryNode.php",
+		"/C/web-mios/mm/nan/mm/node/Time.php",
+		"/C/web-mios/mm/nan/mm/node/Then.php",
+		"/C/web-mios/mm/nan/mm/node/TerminalNode.php",
+		"/C/web-mios/mm/nan/mm/node/Tempo.php",
+		"/C/web-mios/mm/nan/mm/node/Rep.php",
+		"/C/web-mios/mm/nan/mm/node/Parallel.php",
+		"/C/web-mios/mm/nan/mm/node/MusicNodeTag.php",
+		"/C/web-mios/mm/nan/mm/node/Multiplex.php",
+		"/C/web-mios/mm/nan/mm/node/Measure.php",
+		"/C/web-mios/mm/nan/mm/node/Down8th.php",
+		"/C/web-mios/mm/nan/mm/node/BinaryNode.php",
+		"/C/web-mios/mm/nan/mm/node/Arp.php",
+		"/C/web-mios/mm/test_abc_old.php",
+		"/C/web-mios/mm/nan/mm/refactoring/reduce/Up8thMulReducer.php",
+		"/C/web-mios/mm/nan/mm/refactoring/reduce/TransposeReducer.php",
+		"/C/web-mios/mm/nan/mm/refactoring/reduce/MergeReducer.php",
+		"/C/web-mios/mm/nan/mm/Parallel.php",
+		"/C/web-mios/mm/nan/mm/Rep.php",
+		"/C/web-mios/mm/nan/mm/Then.php",
+		"/C/web-mios/mm/nan/mm/Tempo.php",
+		"/C/web-mios/mm/nan/mm/Down8th.php",
+		"/C/web-mios/mm/nan/mm/Up8th.php"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 125.6,
+		"where_history":
+		[
+			"C:\\web-mios\\mm"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"debugWrite",
+			"return",
+			"cleanfields",
+			"cleanFields",
+			"time",
+			"time}",
+			"importRow",
+			"form",
+			"controls",
+			"$controls",
+			"query",
+			"button",
+			"changeToTable",
+			"comercio",
+			"addC",
+			"web",
+			"port",
+			"assert_equals_ir",
+			"assert_abc_equals",
+			"test_measure_3",
+			"test_abctranslator_time_1",
+			"test_chord_Dm",
+			"function err",
+			"err",
+			"function err",
+			"test_chainreducer",
+			"test_chord_Dm",
+			"node\\err",
+			"node\\warn",
+			"node\\debug",
+			"abc",
+			"reduce",
+			"mm\\",
+			"nw",
+			"test_key",
+			"key",
+			"test_nodes_nw",
+			"nextMeasure",
+			"test_chord",
+			"test_arp",
+			"todo",
+			"debugEnabled",
+			"assert_tree_equals",
+			"test_measure_44",
+			"duration:",
+			"mark",
+			" ",
+			"mm\\assert_abc_equals",
+			"test_note_then",
+			"unaryNode",
+			"ntoes",
+			"test_time",
+			"test_chord",
+			"test_chord_Dm",
+			"test_chord",
+			"test_arp",
+			"clazz",
+			"toStringComplementary",
+			"transposeDistanceStr",
+			"name",
+			"Ignore",
+			"test_up8thmul2",
+			"new ",
+			"new",
+			"then",
+			"time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mm\\err",
+			"mm\\warn",
+			"mm\\debug",
+			"node\\",
+			"assert_abc_equals"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "projects/album/album.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "album/Song.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "album/Album.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "refactoring2/test_mm.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "refactoring2/test_node.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1106,
+								1106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/web-mios/mm/refactoring2/test_abc.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								67,
+								67
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/aspire/Desktop/debug.log",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 389,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/aspire/Desktop/us/us cerrados/us9572.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								489
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 275.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/aspire/Desktop/us/us9634-desbloquear-diario-para-duplicar.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 151,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/aspire/Desktop/us/us9572-casogonza2.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								679,
+								679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/aspire/Desktop/us/us9664.xpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2024,
+								2024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 805.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 46.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mm.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\web\\local.llcapacitacion.excelsos.com\\local.llcapacitacion.excelsos.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

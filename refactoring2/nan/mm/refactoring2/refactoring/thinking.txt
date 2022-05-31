@@ -1,0 +1,55 @@
+
+** ideas: 
+
+* reducción para traducción a musica reproducible:
+
+-el arbol se simplica todo lo posible, para que queden solo:
+notas (con duración), partes en paralelo (sin anidar) y partes en serie (sin anidar).
+
+consecuencia:
+
+todo lo que no sea escencial debe desaparecer.
+todo lo que sea escencial debe aparecer en forma canonica
+la metadata debe ignorarse y estar en forma canónica
+los modificadores deben aplicarse a las notas/compases y desaparecer
+
+** tipos de nodo actuales:
+ 
+* escenciales (sin anidar): Parallel,Note,Then
+* semi-escenciales: Measure,Merge
+* no escenciales: Chord,Arp,Down8th,Multiplex,Rep,Up8th,Up8thMul
+* metadata: Header
+* modificadores(de grupo): Key,Tempo,Time
+
+TAREAS
+** DETERMINAR distincion entre parallel y merge
+** DETERMINAR si no sería mejor que fuera arbol binario
+** ANALIZAR significado de semi-escenciales
+** ANALIZAR siginificado de modificadores (deben ser  meta-info de notas?)
+** ANALIZAR relación entre traducción a música MIDI y traducción a partitura (no necesitan exactamente la misma info)
+** DETERMINAR forma canonica
+
+<arbol_canonico> = <musica_metrada>+
+<musica_metrada> = tempo: key: time: <musica>
+<musica> = parallel ( <melodia> + )
+<melodia> = then note+ 
+
+PROCESO:
+-reducir no escenciales
+-canonizar
+up8th(then(A,B))=then(up8th(A),up8th(B)) OOOK
+
+
+QUÉ SIGNIFICA upth8([A,B]) ?
+
+FORMA ADECUADA DE TRADUCCION: 
+then ( up8th([A,B,C,D]) ) ==> then ([up8th(A),up8th(B),up8th(C),up8th(D)])
+
+then ( up8th[A,B],parallel[B,C]) ==>  then (up8th[A],up8th[B],parellel[B,C])
+
+up8th[AB,CD]==>list[up8th[AB],up8th[CD]] ACA HAY UN PROBLEMA DE SEMANTICA? es un conjunto de melodias independientes ? -- la reducción de un nodo , devuelve una lista de nodos
+
+then[up8th[AB,CD]]==>then[[up8th[AB],up8th[CD]]]
+
+OJO --- todo tiene pinta de pattern matching a la haskell
+

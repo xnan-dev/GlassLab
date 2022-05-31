@@ -1,0 +1,20 @@
+* Preguntas importates:
+-qué me gustaría construir?
+--componer buena música de larga duracíón.
+--poder trabajar de forma estructural, cambiando partes sin tener que reescribir todo.
+--poder escuchar una composición y un arreglo inmediatamente
+-qué problema tengo?
+--no tenemos un lenguaje estructurado para escribir música
+--no tenemos una salida de buena calidad de las herramientas de composición (reproducen midi y ya)
+------------------------------------------------------------------------------------
+* otros problemas que me interesen ?
+- reescribir algoritmos rápidos
+- reescribir algoritmos openGL
+- aplicacion de difusion de mensajes mobile
+- sistema de trueque eficiente
+- algoritmos de genetica
+- sistemas complejos
+- bolsa: bots
+- matematica: discontinuidad y congruencia
+- musica fuera del sistema dodecafonico
+- 
